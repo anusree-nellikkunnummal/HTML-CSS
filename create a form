@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<h2>Employment Application Form Example</h2>
+</form>
+<form action="#" method="post">
+First name * &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;Last name *<br><input type="text" name="fname" size="20">
+<input type="text" name="lname" size="20">
+<br><br>
+Email *<br><input type="email" name="email" size="46"><br><br>
+Portfolio website <br> <input type="website" name="web" value="http://"><br><br>
+Position you are applying for * <br>
+<input type="text" name="position" size="46"> <br><br>
+Salary requirements &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; When can you start<br> 
+<input type="text" size="20">
+<input type="text" size="20"><br><br>
+Phone *&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;
+&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;  Fax <br>
+<input type="text" name="phone">
+<input type="text" name="fax"><br><br>
+Are you willing to relocate?<br>
+<input type="radio" name="relocate" id="" value="Yes">Yes
+<input type="radio" name="relocate" id="" value="NO">No
+<input type="radio" name="relocate" id=" "value="Not sure">Not sure
+<br><br>
+Last company you worked for <br>
+<input type="text" size="46"><br><br>
+Reference/Comments/Questions <br>
+<textarea name="comments" id="" cols="30" rows="10"></textarea>
+<br>
+<input type="submit" value="Send Application">
+&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;
+&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; <a href="#">forms</a>
+</form>
